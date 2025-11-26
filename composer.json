@@ -1,0 +1,32 @@
+{
+    "name": "mhstore/laravel-installer",
+    "description": "laravel web installer",
+    "autoload": {
+        "psr-4": {
+            "Mhstore\\LaravelInstaller\\": "src/"
+        },
+         "files": [
+            "src/Helpers/functions.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mhstore\\LaravelInstaller\\Providers\\LaravelInstallerServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "m.zedan",
+            "email": "eng.mohammed.mh.93@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}
