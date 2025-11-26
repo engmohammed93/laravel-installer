@@ -1,7 +1,7 @@
 {
     "name": "mhstore/laravel-installer",
     "description": "laravel web installer",
-    "license": "MOH",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Mhstore\\LaravelInstaller\\": "src/"
