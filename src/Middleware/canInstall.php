@@ -1,6 +1,6 @@
 <?php
 
-namespace RachidLaasri\LaravelInstaller\Middleware;
+namespace Mhstore\LaravelInstaller\Middleware;
 
 use Closure;
 
