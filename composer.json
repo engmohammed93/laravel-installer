@@ -1,6 +1,7 @@
 {
     "name": "mhstore/laravel-installer",
-    "description": "laravel web installer",
+    "description": "Custom Laravel installer",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
