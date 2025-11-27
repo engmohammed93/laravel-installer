@@ -1,6 +1,6 @@
 {
     "name": "mhstore/laravel-installer",
-    "description": "Custom Laravel installer",
+    "description": "Custom Laravel installer  A",
     "type": "library",
     "license": "MIT",
     "repositories": [
