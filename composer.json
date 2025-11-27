@@ -3,6 +3,12 @@
     "description": "Custom Laravel installer",
     "type": "library",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mhstore/laravel-installer.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Mhstore\\LaravelInstaller\\": "src/"
