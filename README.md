@@ -1,2 +1,2 @@
-[![Laravel Web Installer]]
+Laravel Web Installer: For Learning
 
